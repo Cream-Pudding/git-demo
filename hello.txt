@@ -4,7 +4,3 @@ hello Wendy! hello Git!
 hello Wendy! hello Git!
 hello Wendy! hello Git!
 hello Wendy! hello Git!
-hello Wendy! hello Git!22
-hello Wendy! hello Git! master test
-hello Wendy! hello Git!
-hello Wendy! hello Git hot-fix test
